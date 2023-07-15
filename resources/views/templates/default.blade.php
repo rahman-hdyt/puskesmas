@@ -11,10 +11,10 @@
                     <div class="col-lg-6 col-md-12 col-xl-7">
                         <div class="block">
                             <div class="divider mb-3"></div>
-                            <span class="text-uppercase text-sm letter-spacing ">Total Health care solution</span>
+                            <span class="text-uppercase text-sm letter-spacing ">Selamat datang di</span>
                             <h1 class="mb-3 mt-3">PUSKESMAS Sekura</h1>
 
-                            <p class="mb-4 pr-5">A repudiandae ipsam labore ipsa voluptatum quidem quae laudantium quisquam aperiam maiores sunt fugit, deserunt rem suscipit placeat.</p>
+                            <p class="mb-4 pr-5">Pendaftaran antrian online menjadi lebih mudah dan nyaman!</p>
                             <div class="btn-container ">
                                 <a href="appoinment.html" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">SIGN UP <i class="icofont-simple-right ml-2  "></i></a>
                             </div>
@@ -33,22 +33,22 @@
                                 <div class="feature-icon mb-4">
                                     <i class="icofont-surgeon-alt"></i>
                                 </div>
-                                <span>24 Hours Service</span>
-                                <h4 class="mb-3">Online Appoinment</h4>
-                                <p class="mb-4">Get ALl time support for emergency.We have introduced the principle of family medicine.</p>
-                                <a href="appoinment.html" class="btn btn-main btn-round-full">Make a appoinment</a>
+                                <span>Pendaftaran</span>
+                                <h4 class="mb-3">Antrian Online</h4>
+                                <p class="mb-4">Lakukan pendaftaran antrian online untuk mendapatkan nomor antrian.</p>
+                                <a href="appoinment.html" class="btn btn-main btn-round-full">Daftar</a>
                             </div>
 
                             <div class="feature-item mb-5 mb-lg-0">
                                 <div class="feature-icon mb-4">
                                     <i class="icofont-ui-clock"></i>
                                 </div>
-                                <span>Timing schedule</span>
-                                <h4 class="mb-3">Working Hours</h4>
+                                <span>Jadwal Pelayanan</span>
+                                <h4 class="mb-3">Rawat Jalan</h4>
                                 <ul class="w-hours list-unstyled">
-                                    <li class="d-flex justify-content-between">Sun - Wed : <span>8:00 - 17:00</span></li>
-                                    <li class="d-flex justify-content-between">Thu - Fri : <span>9:00 - 17:00</span></li>
-                                    <li class="d-flex justify-content-between">Sat - sun : <span>10:00 - 17:00</span></li>
+                                    <li class="d-flex justify-content-between">Senin - Kamis : <span>8:00 - 13:00</span></li>
+                                    <li class="d-flex justify-content-between">Jum'at        : <span>8:00 - 11:00</span></li>
+                                    <li class="d-flex justify-content-between">Sabtu         : <span>8:00 - 12:00</span></li>
                                 </ul>
                             </div>
 
@@ -56,9 +56,9 @@
                                 <div class="feature-icon mb-4">
                                     <i class="icofont-support"></i>
                                 </div>
-                                <span>Emegency Cases</span>
-                                <h4 class="mb-3">1-800-700-6200</h4>
-                                <p>Get ALl time support for emergency.We have introduced the principle of family medicine.Get Conneted with us for any urgency .</p>
+                                <span>Kasus Darurat</span>
+                                <h4 class="mb-3">0811-566-1880</h4>
+                                <p>Dapatkan dukungan sepanjang waktu untuk keadaan darurat. Terhubung dengan kami untuk setiap urgensi.</p>
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
             </div>
         </section>
 
-        <section class="section service about" style="padding-top: 100px;">
+        <section class="section service about" style="padding-top: 100px;" id="jenis">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-3 col-md-6 col-sm-6">
@@ -95,6 +95,39 @@
                     </div>
                 </div>
             </div>
+        </section>
+
+        <section>
+            
+<!-- About Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="d-flex flex-column">
+                    <img class="img-fluid rounded w-75 align-self-end" src="{{asset('template')}}/images/about/about4.jpg"  alt="">
+                    <img class="img-fluid rounded w-50 bg-white pt-3 pe-3" src="{{asset('template')}}/images/about/about3.jpg" alt=""
+                        style="margin-top: -25%;">
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <p class="d-inline-block border rounded-pill py-1 px-4">Tentang Kami</p>
+                <h1 class="mb-4">Kenali Tentang Kami!</h1>
+                <p>Puskesmas adalah Unit Pelaksana Teknis Dinas Kesehatan Kabupaten yang bertanggungjawab
+                    menyelenggarakan pembangunan kesehatan di suatu wilayah kerja tertantu. Puskesmas berfungsi sebagai:
+                </p>
+                <p class="mb-4">Puskesmas berfungsi sebagai (1) Pusat penggerak pembangunan berwawasan kesehatan ; (2)
+                    Pusat pemberdayaan keluarga dan masyarakat ; (3) Pusat Pelayanan kesehatan strata pertama. </p>
+                <p><i class="far fa-check-circle text-primary me-3"></i>P1. Perencanaan</p>
+                <p><i class="far fa-check-circle text-primary me-3"></i>P2. Penggerakan, Pelaksanaan</p>
+                <p><i class="far fa-check-circle text-primary me-3"></i>P3. Pengawasan, Pengendalian, Penilaian</p>
+                <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->
+
         </section>
 
         <section class="section doctors gray-bg" id="artikel">

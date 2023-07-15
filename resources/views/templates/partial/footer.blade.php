@@ -15,7 +15,7 @@
                     <div class="logo mb-4">
                         <img src="images/logo.png" alt="" class="img-fluid">
                     </div>
-                    <p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+                    <p> Ikuti kami di sosial media untuk mendapatkan informasi terbaru dan bermanfaat. </p>
 
                     <ul class="list-inline footer-socials mt-4">
                         <li class="list-inline-item">
@@ -48,17 +48,17 @@
                     <div class="footer-contact-block mb-4">
                         <div class="icon d-flex align-items-center">
                             <i class="icofont-email mr-3"></i>
-                            <span class="h6 mb-0">Support Available for 24/7</span>
+                            <span class="h6 mb-0">Email</span>
                         </div>
-                        <h4 class="mt-2"><a href="mailto:support@email.com">Support@email.com</a></h4>
+                        <h4 class="mt-2"><a href="mailto:support@email.com">pkm.sekura@gmail.com</a></h4>
                     </div>
 
                     <div class="footer-contact-block">
                         <div class="icon d-flex align-items-center">
                             <i class="icofont-support mr-3"></i>
-                            <span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
+                            <span class="h6 mb-0">Call Center</span>
                         </div>
-                        <h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+                        <h4 class="mt-2"><a href="tel:+23-345-67890">+62-811-572-2456</a></h4>
                     </div>
                 </div>
             </div>
