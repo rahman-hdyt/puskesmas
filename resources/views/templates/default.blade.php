@@ -16,7 +16,7 @@
 
                             <p class="mb-4 pr-5">Pendaftaran antrian online menjadi lebih mudah dan nyaman!</p>
                             <div class="btn-container ">
-                                <a href="appoinment.html" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">SIGN UP <i class="icofont-simple-right ml-2  "></i></a>
+                                <a href="{{ route('register') }}" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">SIGN UP <i class="icofont-simple-right ml-2  "></i></a>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
         </section>
 
         <section>
-            
+
 <!-- About Start -->
 <div class="container-xxl py-5">
     <div class="container">
