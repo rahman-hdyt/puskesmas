@@ -12,12 +12,12 @@
 
             <div class="collapse navbar-collapse" id="navbarmain">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active"><a class="nav-link" href="index.html">Beranda</a></li>
-                     <li class="nav-item dropdown">
+                    <li class="nav-item active"><a class="nav-link" href="#beranda">Beranda</a></li>
+                    <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="blog-sidebar.html" id="dropdown05" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Tentang Puskesmas <i class="icofont-thin-down"></i></a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown05">
-                            <li><a class="dropdown-item" href="blog-sidebar.html">Visi & Misi</a></li>
+                            <li><a class="dropdown-item" href="#visimisi">Visi & Misi</a></li>
                             <li><a class="dropdown-item" href="blog-single.html">Struktur Organisasi</a></li>
                             <li><a class="dropdown-item" href="blog-single.html">Tugas Pokok dan Fungsi</a></li>
                         </ul>

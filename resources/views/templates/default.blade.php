@@ -5,7 +5,7 @@
         @include('templates.partial.navbar')
 
         <!-- Slider Start -->
-        <section class="banner" style="margin-top: 5rem;" id="home">
+        <section class="banner" style="margin-top: 5rem;" id="beranda">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-xl-7">
@@ -229,7 +229,7 @@
             </div>
         </section>
 
-        <section class="section service" id="visi-misi" style="padding-top: 100px;">
+        <section class="section service" style="padding-top: 100px;" id="visimisi">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-7 text-center">
