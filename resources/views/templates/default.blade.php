@@ -69,23 +69,23 @@
         <section class="section service about" style="padding-top: 100px;" id="jenis">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                                <div class="service-list mb-5 mb-lg-0" style="text-align: -webkit-center;">
-                        <div class="feature-icon mb-2">
-                            <i class="icofont-loop"></i>
-                        </div>
-                        <h4 class="p-0 m-0">Antrian</h4>
-                        </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="1500">
+                        <div class="service-list mb-5 mb-lg-0" style="text-align: -webkit-center;">
+                            <div class="feature-icon mb-2">
+                                <i class="icofont-loop"></i>
                             </div>
-                            <div class="col-lg-3 col-md-6 col-sm-6">
-                                <div class="service-list mb-5 mb-lg-0" style="text-align: -webkit-center;">
-                        <div class="feature-icon mb-2">
-                            <i class="icofont-patient-bed"></i>
+                            <h4 class="p-0 m-0">Antrian</h4>
                         </div>
-                        <h4 class="p-0 m-0">Rawat Inap</h4>
-                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="200">
+                        <div class="service-list mb-5 mb-lg-0" style="text-align: -webkit-center;">
+                            <div class="feature-icon mb-2">
+                                <i class="icofont-patient-bed"></i>
                             </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                            <h4 class="p-0 m-0">Rawat Inap</h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300">
                         <div class="service-list mb-5 mb-lg-0" style="text-align: -webkit-center;">
                             <div class="feature-icon mb-2">
                                 <i class="icofont-medical-sign"></i>
@@ -103,14 +103,14 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="row g-5">
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+            <div class="col-lg-6 wow" data-aos="fade-right" data-aos-duration="1500">
                 <div class="d-flex flex-column">
                     <img class="img-fluid rounded w-75 align-self-end" src="{{asset('template')}}/images/about/about4.jpg"  alt="">
                     <img class="img-fluid rounded w-50 bg-white pt-3 pe-3" src="{{asset('template')}}/images/about/about3.jpg" alt=""
                         style="margin-top: -25%;">
                 </div>
             </div>
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+            <div class="col-lg-6 wow" data-aos="fade-left" data-aos-duration="1500" data-aos-delay="200">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Tentang Kami</p>
                 <h1 class="mb-4">Kenali Tentang Kami!</h1>
                 <p>Puskesmas adalah Unit Pelaksana Teknis Dinas Kesehatan Kabupaten yang bertanggungjawab
@@ -169,11 +169,11 @@
                 </div>
 
                 <div class="row shuffle-wrapper portfolio-gallery shuffle" style="position: relative; overflow: hidden; height: 1113px; transition: height 250ms cubic-bezier(0.4, 0, 0.2, 1) 0s;">
-                    <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item shuffle-item--visible" data-groups="[&quot;cat1&quot;,&quot;cat2&quot;]" style="position: absolute; top: 0px; left: 0px; visibility: visible; will-change: transform; opacity: 1; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+                    <div class="col-lg-3 col-sm-6 col-md-6 mb-4 shuffle-item shuffle-item--visible" data-aos="zoom-in-up" data-aos-duration="4000" data-groups="[&quot;cat1&quot;,&quot;cat2&quot;]" style="position: absolute; top: 0px; left: 0px; visibility: visible; will-change: transform; opacity: 1; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
                         <div class="position-relative doctor-inner-box">
-                        <div class="doctor-profile">
+                            <div class="doctor-profile">
                                 <div class="doctor-img">
-                                <img src="{{asset('template')}}/images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
+                                    <img src="{{asset('template')}}/images/team/1.jpg" alt="doctor-image" class="img-fluid w-100">
                                 </div>
                             </div>
                             <div class="content mt-3">

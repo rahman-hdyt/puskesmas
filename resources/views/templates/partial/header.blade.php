@@ -19,6 +19,9 @@
         <link rel="stylesheet" href="{{asset('template')}}/plugins/slick-carousel/slick/slick.css">
         <link rel="stylesheet" href="{{asset('template')}}/plugins/slick-carousel/slick/slick-theme.css">
 
+        <!-- AOS -->
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
         <!-- Main Stylesheet -->
         <link rel="stylesheet" href="{{asset('template')}}/css/style.css">
 

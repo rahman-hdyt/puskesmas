@@ -11,3 +11,11 @@ Essential Scripts
 <script src="{{asset('template')}}/plugins/google-map/gmap.js"></script>
 
 <script src="{{asset('template')}}/js/script.js"></script>
+
+<!-- AOS -->
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+
+
